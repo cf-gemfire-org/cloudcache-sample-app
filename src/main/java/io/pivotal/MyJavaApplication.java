@@ -1,10 +1,10 @@
 package io.pivotal;
 
-import org.apache.geode.LogWriter;
 import org.apache.geode.cache.Region;
 import org.apache.geode.cache.client.ClientCache;
 import org.apache.geode.cache.client.ClientCacheFactory;
 import org.apache.geode.cache.client.ClientRegionShortcut;
+
 
 import java.io.IOException;
 import java.net.URI;
